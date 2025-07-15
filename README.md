@@ -4,11 +4,11 @@ This repository contains tasks, materials, code, and resources related to the **
 
 ## 📁 Folder Structure
 
-- `Code Semester Pendek/`
+- `Code Semester Pendek`
   - Contains code related to assignment/task.
-- `Semester Pendek/`
+- `Semester Pendek`
   - Contains assignment files and task documents.
-- `Resources/`
+- `Resources`
   - Contains learning materials and supporting files.
 
 ## ✅ Purpose
