@@ -26,4 +26,4 @@ This project serves as a central location to organize and store:
 
 ## 📌 Notes
 
-Feel free to explore the folders to find relevant materials or contribute improvements.
+Feel free to explore the folders to find relevant materials.
