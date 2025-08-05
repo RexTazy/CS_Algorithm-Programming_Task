@@ -18,7 +18,7 @@ void mergeSort(int arr[], int left, int right) {
 }
 
 int main() {
-    int arr[] = {1, 10, 3, 4, 7, 2, 8, 9};
+    int arr[] = {98, 79, 90, 88, 69, 73, 93, 100, 85, 95};
     int n = sizeof(arr) / sizeof(arr[0]);
     
     for(int i = 0; i < n; i++) printf("%d ", arr[i]);
