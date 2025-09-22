@@ -10,6 +10,8 @@ This repository contains tasks, materials, code, and resources related to the **
   - Contains assignment files and task documents.
 - `Resources`
   - Contains learning materials and supporting files.
+- `Final Exam`
+  - Contains Final Exam and supporting files.
 
 ## ✅ Purpose
 
